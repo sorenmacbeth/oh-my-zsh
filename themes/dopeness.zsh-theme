@@ -1,6 +1,6 @@
 BAT_CHARGE="$HOME/bin/batcharge.py"
 
-MAIN_PROMPT='$FG[032]λ ${PWD/#$HOME/~}%{$reset_color%} $FG[036]$(git_prompt_info)%{$reset_color%}
+MAIN_PROMPT='$FG[032](ノಠ益ಠ)ノ%{$reset_color%}彡 $FG[032]${PWD/#$HOME/~}%{$reset_color%} $FG[036]$(git_prompt_info)%{$reset_color%}
 $FG[032]→%{$reset_color%} '
 
 USER_PROMPT='%n@%m'
